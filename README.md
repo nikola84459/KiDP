@@ -4,14 +4,25 @@ Ovi zadaci se bave rešavanjem problema kritične sekcije u programskom jeziku j
 Neka od rešenja kritične sekcije prikazna u ovim zadacima su:
 
   Primenom java monitora odnosno synchronized blokova
+  
   Primenom jedne promenljive "može"
+  
   Primenom dve promenljive "može"
+  
   Primenom Dekerovog algoritma
+  
   Primenom Petersonovog algoritma
+  
   Primenom Petersonovog algoritma za N procesa
+  
   Primenom Bakery algoritma
+  
   Primenom Exchange algoritma
+  
   Primenom TAS algoritma
+  
   Primenom TAS prepravljenog algoritma
+  
   Primenom java Semaphor-a
+  
   Primenom metoda "wait" i "notify"
