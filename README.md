@@ -5,9 +5,9 @@ Neka od rešenja kritične sekcije prikazna u ovim zadacima su:
 
   Primenom java monitora odnosno synchronized blokova
   
-  Primenom jedne promenljive "može"
+  Primenom jedne promenljive "moze"
   
-  Primenom dve promenljive "može"
+  Primenom dve promenljive "moze"
   
   Primenom Dekerovog algoritma
   
