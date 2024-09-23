@@ -23,6 +23,4 @@ Neka od rešenja kritične sekcije prikazna u ovim zadacima su:
   
   Primenom TAS prepravljenog algoritma
   
-  Primenom java Semaphor-a
-  
-  Primenom metoda "wait" i "notify"
+  Primenom java Semaphor-a 
