@@ -1,4 +1,5 @@
 Description:
+
 These are tasks from the course on Concurrent and Distributed Programming. These tasks focus on solving the critical section problem in the Java programming language.
 
 Some of the solutions to the critical section problem presented in these tasks include:
