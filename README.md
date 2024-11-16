@@ -1,26 +1,26 @@
-Ovde su prikazani zadaci iz predmeta Konkurentno i distribuirano programiranje.
-Ovi zadaci se bave rešavanjem problema kritične sekcije u programskom jeziku java.
+Description:
+These are tasks from the course on Concurrent and Distributed Programming. These tasks focus on solving the critical section problem in the Java programming language.
 
-Neka od rešenja kritične sekcije prikazna u ovim zadacima su:
+Some of the solutions to the critical section problem presented in these tasks include:
 
-  Primenom java monitora odnosno synchronized blokova
-  
-  Primenom jedne promenljive "moze"
-  
-  Primenom dve promenljive "moze"
-  
-  Primenom Dekerovog algoritma
-  
-  Primenom Petersonovog algoritma
-  
-  Primenom Petersonovog algoritma za N procesa
-  
-  Primenom Bakery algoritma
-  
-  Primenom Exchange algoritma
-  
-  Primenom TAS algoritma
-  
-  Primenom TAS prepravljenog algoritma
-  
-  Primenom java Semaphor-a 
+Using Java monitors and synchronized blocks
+
+Using a single variable "moze"
+
+Using two variables "moze"
+
+Using Deker's algorithm
+
+Using Peterson's algorithm
+
+Using Peterson's algorithm for N processes
+
+Using the Bakery algorithm
+
+Using the Exchange algorithm
+
+Using the TAS algorithm
+
+Using the modified TAS algorithm
+
+Using Java Semaphores
